@@ -3,10 +3,9 @@
 @import "Kytheme/sourcemode.dark.css";
 
 :root {
-    --bg-color:  #1d1d1d;
+    --bg-color:  #36393F;
     --side-bar-bg-color: #000000;
     --text-color: #b8bfc6;
-    
 
     --select-text-bg-color:#eb02c4;
 
@@ -142,6 +141,8 @@ h2 {
 
 h3 {
     font-size: 1.17rem;
+    border-bottom: 0.5px solid rgb(236, 64, 87);
+    color: rgb(236, 64, 87);
     /* 18px */
     line-height: 1.5rem;
     /* 24px */
